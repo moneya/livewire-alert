@@ -6,6 +6,7 @@ use Illuminate\Support\ServiceProvider;
 
 use Livewire\Component;
 use Illuminate\Support\Str;
+use Jantinnerezo\LivewireAlert\LivewireAlert;
 
 class LivewireAlertServiceProvider extends ServiceProvider
 {
